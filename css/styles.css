@@ -856,9 +856,10 @@ footer a:hover, footer a:focus {
     outline: none;
 }
 
-.form-label:hover .modal-icon {
-    fill: var(--accent-color);
+.modal-icon {
+    fill: var(--title-text-color);
 }
+
     
 .form-input::placeholder {
     font-size: 12px;
